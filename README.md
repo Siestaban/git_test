@@ -1,3 +1,3 @@
 # git_test
-GitHub Repo
+GitHub Repo.
 Hello Odin!

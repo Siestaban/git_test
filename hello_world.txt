@@ -1,0 +1,2 @@
+Hello Odin, here is my first test with git and github!
+I'm know my journey to programming has only just begun but I'm amazed by what I've learned so far!
